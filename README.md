@@ -1,8 +1,5 @@
 # Introduction
 
-You have created an dropwizard application using lazybones. The application will start but it has no resources
-configured for it yet. To find out where to go from here, visit the [dropwizard documentation](dropwizard.codahale.com).
-
 There is a working service, liquibase migrations, hibernate support and a basic gradle build system including some
 shortcuts to the commands for running migrations and starting the service.
 
